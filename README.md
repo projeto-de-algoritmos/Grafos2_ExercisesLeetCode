@@ -27,6 +27,14 @@ Encontra o menor conjunto de vértices que a partir da mesma todos os nós do gr
 Dificuldade: Medium
 ```
 Dado um array rooms onde rooms[i] é o conjunto de chaves que você pode obter se você visitou a sala i, retorne true se você puder visitar todas as salas, ou false caso contrário.
+
+### 3. [Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/)
+
+```
+Dificuldade: Medium
+```
+São fornecidos dois arrays, richer e quiet. O array richer possui pares [ai, bi], em que ai possui mais dinheiro do que bi. O array quiet indica o nível de quietude de cada pessoa. Retorne um array de inteiros chamado answer, onde answer[x] = y, se y for a pessoa menos quieta (ou seja, com o menor valor de quietude) entre todas as pessoas que definitivamente têm igual ou mais dinheiro do que a pessoa x.
+
 ## Alunos
 | Matrícula | Aluno                          |
 |-----------|--------------------------------|

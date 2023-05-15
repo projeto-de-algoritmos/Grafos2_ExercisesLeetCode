@@ -8,6 +8,7 @@ class Solution:
         # Acompanha a contagem de arestas recebidas para cada nó
         incoming = [0] * n  
         
+        # Adiciona "to_node" à lista de adjacência do "from_node" e incrementamos a contagem "to_node"
         for from_node, to_node in edges:
             graph[from_node].append(to_node)
             incoming[to_node] += 1

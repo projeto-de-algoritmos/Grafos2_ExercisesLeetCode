@@ -35,7 +35,7 @@ Dificuldade: Medium
 ```
 São fornecidos dois arrays, richer e quiet. O array richer possui pares [ai, bi], em que ai possui mais dinheiro do que bi. O array quiet indica o nível de quietude de cada pessoa. Retorne um array de inteiros chamado answer, onde answer[x] = y, se y for a pessoa menos quieta (ou seja, com o menor valor de quietude) entre todas as pessoas que definitivamente têm igual ou mais dinheiro do que a pessoa x.
 
-### 4. [Vídeo Explicação](https://youtu.be/EHhPLZdEavs)
+### [Vídeo Explicação](https://youtu.be/EHhPLZdEavs)
 
 ## Alunos
 | Matrícula | Aluno                          |

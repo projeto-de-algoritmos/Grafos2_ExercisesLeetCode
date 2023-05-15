@@ -10,9 +10,8 @@
 
 ```
 Dificuldade: Hard
-
-Retorna o comprimento do caminho mais curto que visita cada nó. Você pode iniciar e parar em qualquer nó, pode revisitar os nós várias vezes e pode reutilizar arestas.
 ```
+Retorna o comprimento do caminho mais curto que visita cada nó. Você pode iniciar e parar em qualquer nó, pode revisitar os nós várias vezes e pode reutilizar arestas.
 ### 2.
 
 ### 3.

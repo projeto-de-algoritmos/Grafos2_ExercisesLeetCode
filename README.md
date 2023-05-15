@@ -1,6 +1,6 @@
 # Exercicios de Grafos 2
 
-**Número da Lista**: 32<br>
+**Número da Lista**: 31<br>
 **Conteúdo da Disciplina**: Grafos2<br>
 
 

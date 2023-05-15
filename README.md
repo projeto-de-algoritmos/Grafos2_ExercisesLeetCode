@@ -13,13 +13,12 @@ Dificuldade: Hard
 ```
 Retorna o comprimento do caminho mais curto que visita cada nó. Você pode iniciar e parar em qualquer nó, pode revisitar os nós várias vezes e pode reutilizar arestas.
 
-### 2.[Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
+### 2. [Minimum Number of Vertices to Reach All Nodes](https://leetcode.com/problems/minimum-number-of-vertices-to-reach-all-nodes/)
 
 ```
 Dificuldade: Medium
 ```
-
-
+Encontra o menor conjunto de vértices que a partir da mesma todos os nós do grafo são alcançáveis. É garantido que existe uma solução única.
 
 
 ### 3.

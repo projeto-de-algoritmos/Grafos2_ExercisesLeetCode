@@ -21,7 +21,12 @@ Dificuldade: Medium
 Encontra o menor conjunto de vértices que a partir da mesma todos os nós do grafo são alcançáveis. É garantido que existe uma solução única.
 
 
-### 3.
+### 3. [Keys and Rooms](https://leetcode.com/problems/keys-and-rooms/)
+
+```
+Dificuldade: Medium
+```
+Dado um array rooms onde rooms[i] é o conjunto de chaves que você pode obter se você visitou a sala i, retorne true se você puder visitar todas as salas, ou false caso contrário.
 ## Alunos
 | Matrícula | Aluno                          |
 |-----------|--------------------------------|

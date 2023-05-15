@@ -28,7 +28,7 @@ Dificuldade: Medium
 ```
 Dado um array rooms onde rooms[i] é o conjunto de chaves que você pode obter se você visitou a sala i, retorne true se você puder visitar todas as salas, ou false caso contrário.
 
-### 3. [Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/)
+### 4. [Loud and Rich](https://leetcode.com/problems/loud-and-rich/description/)
 
 ```
 Dificuldade: Medium
